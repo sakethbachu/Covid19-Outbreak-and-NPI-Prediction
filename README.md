@@ -30,4 +30,4 @@ You can directly use this on Google Collab. Once you click on the the .ipynb fil
  
  **Every other detail is given in the notebook clearly**
  
- This video will give you the insights in how our solution will help tackle the problem: https://www.youtube.com/watch?v=GaVw4ht7C0g&t=15s
+ This video will give address all the insights about how our solution will help tackle the problem which we have chosen i.e **Pandemic Outbreak and mitigation prediction** : https://www.youtube.com/watch?v=GaVw4ht7C0g&t=15s
