@@ -29,3 +29,5 @@ You can directly use this on Google Collab. Once you click on the the .ipynb fil
    g)**w_forecast.csv**: This is the forecast on daily min and max temperatures arranged country wise.
  
  **Every other detail is given in the notebook clearly**
+ 
+ This video will give you the insights in how our solution will help tackle the problem: https://www.youtube.com/watch?v=GaVw4ht7C0g&t=15s
