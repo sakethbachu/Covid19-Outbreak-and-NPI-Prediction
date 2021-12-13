@@ -37,3 +37,9 @@ You can directly use this on Google Collab. Once you click on the the .ipynb fil
  1. Placed third in the **ReInvent Hacks - Corona Hackathon**, find info [here](https://reinventhacks.devpost.com/project-gallery)
  2. Find a detailed article [here](https://buildforcovid19.io/coronaob-ai-pandemic-outbreak-and-mitigation-prediction/)
  
+ 
+ ## Team
+ 1. Saketh Bachu
+ 2. Imran Shaikh
+ 3. Gauri Dixit
+ 4. [Aryan Shah](http://linkedin.com/in/aryangshah)
